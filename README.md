@@ -12,3 +12,5 @@ This project analyzes Walmart's Black Friday transactional data to understand cu
 * **Language:** Python
 * **Libraries:** NumPy, SciPy (Statistical Testing), Matplotlib/Seaborn (Visualization), Pandas (Data Manipulation)
 * **Tools:** Power BI (for executive dashboards)
+  *
+<img width="1003" height="547" alt="power_bi" src="https://github.com/user-attachments/assets/0d20088e-5c17-4b8c-863e-37eb13b2420a" />
