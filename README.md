@@ -10,16 +10,16 @@ This project analyzes Walmart's Black Friday transactional data to understand cu
 
 ### Data Description
 The company collected the transactional data of customers who purchased products from Walmart Stores during Black Friday. The dataset in walmart_data.csv has the following features:
-* **User_ID
-* **Product_ID
-* **Gender - sex of a customer
-* **Age - age in bins
-* **Occupation (masked)
-* **City_Category - category of the city [A, B, C]
-* **Stay_In_Current_City_Years: number of years a customer stays in their current city
-* **Marital_Status
-* **Product_Category (masked)
-* **Purchase - purchase amount
+* **User_ID**
+* **Product_ID**
+* **Gender - sex of a customer**
+* **Age - age in bins**
+* **Occupation (masked)**
+* **City_Category - category of the city [A, B, C]**
+* **Stay_In_Current_City_Years: number of years a customer stays in their current city**
+* **Marital_Status**
+* **Product_Category (masked)**
+* **Purchase - purchase amount**
 
 ### Tech Stack
 * **Language:** Python
